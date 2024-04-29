@@ -27,7 +27,7 @@
         <encoding>UTF-8</encoding>
         <scala.version>2.11.12</scala.version>
         <scala.binary.version>2.11</scala.binary.version>
-        <logback.version>1.2.3</logback.version>
+        <logback.version>1.2.13</logback.version>
         <spark.version>2.4.5</spark.version>
         <main.class>com.microsoft.graphdataconnect.skillsfinder.hrdata.CopyHRDataToDatabase</main.class>
     </properties>
